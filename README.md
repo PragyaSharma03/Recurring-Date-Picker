@@ -1,7 +1,14 @@
 # Recurring Date Picker
-Link: https://3000-pragyasharm-recurringda-t0bfou0ule9.ws-us120.gitpod.io/
-
 A powerful React application for creating and managing recurring date patterns. Built with Next.js, TypeScript, and Zustand for state management.
+Gitpod Link: https://pragyasharm-recurringda-h2z05ib0lpt.ws-us120.gitpod.io/
+run npm dev
+
+Snapshots showcasing all features:
+<img width="1218" height="683" alt="image" src="https://github.com/user-attachments/assets/9a4684bf-136c-4a98-bc0b-071538a93d69" />
+
+<img width="1261" height="683" alt="image" src="https://github.com/user-attachments/assets/b4730d93-55b2-412b-a1a0-8e0e799d8bfe" />
+
+
 
 ## Features
 
